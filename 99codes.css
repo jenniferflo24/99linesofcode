@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: white;
+}
+.friend {
+    background-color: white;
+    color: white;
+}
+h3 {
+    text-transform: uppercase;
+}
+
+p {
+    color: white;
+}
